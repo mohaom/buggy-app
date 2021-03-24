@@ -3,6 +3,7 @@
   "private": true,
   "bin": {
     "helper": "run.js"
+    "password" : "password123"
   },
   "scripts": {
     "lint": "eslint .",
